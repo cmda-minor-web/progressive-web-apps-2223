@@ -19,14 +19,14 @@ Doel: Webpagina's server side renderen
 
 [Slides](...)
 
-### Week 2 - Render Path 
+### Week 2 - Render Path  
 
 Doel: Render path optimaliseren
 [Opdrachten](...)
 
 [Slides](...)
 
-### Week 3 - Going Offline
+### Week 3 - Going Offline 
 
 Doel: Webpagina's offline beschikbaar stellen
 
