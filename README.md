@@ -1,4 +1,4 @@
-# Performance Matters @cmda-minor-web 1819
+# Performance Matters @cmda-minor-web · 2018-2019
 
 In dit vak gaan we de eerder bij de OBA gemaakte client side web applicatie ombouwen naar een server side gerenderde applicatie. Verder gaan we een reeks van optimalisaties doorvoeren om de performance van de applicatie te verbeteren. Uiteindelijk zorgen we ervoor dat de applicatie offline beschikbaar.
 
