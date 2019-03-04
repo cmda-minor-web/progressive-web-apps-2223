@@ -8,9 +8,9 @@ Deze week gaan we de client side OBA app ombouwen naar een server side versie. H
 Er is 12 uur ingeroosterd om deze week zelfstandig aan de opdrachten van dit vaak te werken. Probeer je werk goed te plannen! Tussentijds wordt in standup meetings en klassikale bijeenkomsten de voortgang gemonitord. Aan het eind van de week wordt je op theoretische kennis getoetst en op het begrip van de code die je volgens de opdrachten schrijft.
 
 ## Opdrachten
-1. Bouw de OBA App om naar een server side versie met Node.js & Express
-2. Tooling: NPM, CommonJS & Browserify
-3. Universal / Isomorphic app (extra)
+1. [Bouw de OBA App om naar een server side versie met Node.js & Express](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-1)
+2. [Tooling: NPM, CommonJS & Browserify](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-2)
+3. [Universal / Isomorphic app (extra)](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-3)
 
 ### Opdracht 1
 Pas de Adamnet app aan naar een server side versie met Node.js & Express
@@ -19,8 +19,7 @@ Fork deze repo, en werk daar je server side app uit: [...](...)
 Documenteer in je readme.md hoe je de server draaiend krijgt; git clone && npm start  
 
 Voorbeeld: 
-https://github.com/wooorm/dictionary
-Express simpel server with api call example
+[Express simpel server with api call example](https://github.com/wooorm/dictionary)
 
 ### Opdracht 2
 Tooling; NPM scripts, CommonJS & Browserify
