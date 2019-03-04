@@ -9,8 +9,8 @@ Er is 12 uur ingeroosterd om deze week zelfstandig aan de opdrachten van dit vaa
 
 ## Opdrachten
 1. [Bouw de OBA App om naar een server side versie met Node.js & Express][opdracht1]
-2. [Tooling: NPM, CommonJS & Browserify](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-2-tooling-npm-scripts-commonjs--browserify)
-3. [Universal / Isomorphic app (extra)](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-3-universal--isomorphic-app-extra)
+2. [Tooling: NPM, CommonJS & Browserify][opdracht2]
+3. [Universal / Isomorphic app (extra)][opdracht3]
 
 ### Opdracht 1: Pas de Adamnet app aan naar een server side versie met Node.js & Express
 
@@ -31,3 +31,5 @@ Documenteer in je readme.md hoe jij de build heb geïmplementeerd
 Met de komst van Node.js is het mogelijk om JavaScript op de server te runnen. Een Universal of Isomorphic app is een app waarvan (een gedeelte van) de code zowel op de client als op de server kan worden gebruikt. Probeer van jouw app een universal app te maken.
 
 [opdracht1]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-1-pas-de-adamnet-app-aan-naar-een-server-side-versie-met-nodejs--express
+[opdracht2]: (https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-2-tooling-npm-scripts-commonjs--browserify)
+[opdracht3]: (https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-3-universal--isomorphic-app-extra)
