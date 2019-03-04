@@ -31,7 +31,7 @@ Documenteer in je readme.md hoe jij de build heb geïmplementeerd
 
 #### Resources
 
-### Opdracht 3: Universal / Isomorphic app (extra)
+### Opdracht 3: Universal / Isomorphic app (extra) 
 
 Met de komst van Node.js is het mogelijk om JavaScript op de server te runnen. Een Universal of Isomorphic app is een app waarvan (een gedeelte van) de code zowel op de client als op de server kan worden gebruikt. Probeer van jouw app een universal app te maken.
 
