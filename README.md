@@ -15,14 +15,14 @@ In dit vak gaan we de eerder bij de OBA gemaakte client side web applicatie ombo
 
 Doel: Webpagina's server side renderen
 
-[Opdrachten](...)
+[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md)
 
 [Slides](...)
 
 ### Week 2 - Render Path  
 
 Doel: Render path optimaliseren
-[Opdrachten](...)
+[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-2.md)
 
 [Slides](...)
 
@@ -30,7 +30,7 @@ Doel: Render path optimaliseren
 
 Doel: Webpagina's offline beschikbaar stellen
 
-[Opdrachten](...)
+[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-3.md)
 
 [Slides](...)
 
