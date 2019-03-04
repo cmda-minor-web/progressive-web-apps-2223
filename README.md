@@ -1,6 +1,6 @@
 # Performance Matters @cmda-minor-web 1819
 
-In dit vak gaan we de eerder gemaakte client side web applicatie ombouwen naar een server side gerenderde applicatie. Verder gaan we een reeks van optimalisaties doorvoeren om de performance van de applicatie te verbeteren én er voor te zorgen dat de applicatie offline beschikbaar is.
+In dit vak gaan we de eerder bij de OBA gemaakte client side web applicatie ombouwen naar een server side gerenderde applicatie. Verder gaan we een reeks van optimalisaties doorvoeren om de performance van de applicatie te verbeteren. Uiteindelijk zorgen we ervoor dat de applicatie offline beschikbaar.
 
 ## Leerdoelen
 - _Je weet het verschil tussen client side en server side renderen en kan beide toepassen_
