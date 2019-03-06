@@ -7,7 +7,7 @@ In dit vak gaan we de eerder bij de OBA gemaakte client side web applicatie ombo
 - _Je begrijpt hoe de critical render path werkt, en hoe je deze kan optimaliseren._
 - _Je begrijpt hoe een Service Worker werkt en kan deze in jou applicatie implementeren._
 
-[Rubric](...)
+[Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTO-pc2UMvpT0pUjt6NJeckc5N9E7QvCxEfVJW1JjuM0m_9MM8ra05J0s6br486Rocz5JVMhAX_C37_/pubhtml?gid=0&single=true)
 
 ## Lesprogramma
 
