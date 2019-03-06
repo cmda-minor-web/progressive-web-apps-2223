@@ -12,11 +12,11 @@ Er is 12 uur ingeroosterd om deze week zelfstandig aan de opdrachten van dit vaa
 2. [Tooling: NPM, CommonJS & Browserify][opdracht2]
 3. [Universal / Isomorphic app (extra)][opdracht3]
 
-### Opdracht 1: Pas de Adamnet app aan naar een server side versie met Node.js & Express
+### Opdracht 1: Pas de OBA app aan naar een server side versie met Node.js & Express
 
-Denk bij het aanpassen goed na over wat de MVP is van de Adamnet app. Over het algemeen is dat een overview page, met een lijstje met items die elk door linken naar een detail page. Zorg ervoor dat je eerst de HTML genereert vanaf de server, vervolgens kijk je in hoeverre je de CSS kan aanpassen, en tenslotte probeer je de app zoveel mogelijk te verbeteren met client side JavaScript. 
+Denk bij het aanpassen goed na over wat de MVP (of core functionaliteit) is van de OBA app. Over het algemeen is dat een overview page, met een lijstje met items die elk door linken naar een detail page. Zorg ervoor dat je eerst de HTML genereert vanaf de server, vervolgens kijk je in hoeverre je de CSS kan aanpassen, en tenslotte probeer je de app zoveel mogelijk te enhancen met client side JavaScript. 
 
-Fork deze repo, en werk daar je server side app uit: [...](...)
+Fork deze repo, en werk daar je server side app uit: [Performance Matters 1819](https://github.com/cmda-minor-web/performance-matters-1819)
 
 Documenteer in je readme.md hoe je de server draaiend krijgt; git clone && npm start 
 
