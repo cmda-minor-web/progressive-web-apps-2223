@@ -40,6 +40,6 @@ Met de komst van Node.js is het mogelijk om JavaScript op de server te runnen. E
 
 
 <!-- Bindings -->
-[opdracht1]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-1-pas-de-adamnet-app-aan-naar-een-server-side-versie-met-nodejs--express
-[opdracht2]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-2-tooling-npm-scripts-commonjs--browserify
-[opdracht3]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/opdrachten-week-1.md#opdracht-3-universal--isomorphic-app-extra
+[opdracht1]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-1.md#opdracht-1-pas-de-adamnet-app-aan-naar-een-server-side-versie-met-nodejs--express
+[opdracht2]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-1.md#opdracht-2-tooling-npm-scripts-commonjs--browserify
+[opdracht3]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-1.md#opdracht-3-universal--isomorphic-app-extra
