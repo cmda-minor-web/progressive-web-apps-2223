@@ -3,8 +3,8 @@
 In dit vak gaan we de eerder bij de OBA gemaakte client side web applicatie ombouwen naar een server side gerenderde applicatie. Verder gaan we een reeks van optimalisaties doorvoeren om de performance van de applicatie te verbeteren. Uiteindelijk zorgen we ervoor dat de applicatie offline beschikbaar.
 
 ## Leerdoelen
-- _Je weet het verschil tussen client side en server side renderen en kan beide toepassen_
-- _Je begrijpt hoe de render path werkt, en hoe je deze kan optimaliseren._
+- _Je weet het verschil tussen client side en server side rendering en kan server side rendering toepassen_
+- _Je begrijpt hoe de critical render path werkt, en hoe je deze kan optimaliseren._
 - _Je begrijpt hoe een Service Worker werkt en kan deze in jou applicatie implementeren._
 
 [Rubric](...)
