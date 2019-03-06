@@ -25,6 +25,6 @@ first paint / repeat paint
 
 
 <!-- Bindings -->
-[opdracht1]: 
+[opdracht1]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md#opdracht-1-optimaliseer-de-first-meaningful-paint
 [opdracht2]: 
 
