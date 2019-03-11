@@ -21,15 +21,19 @@ Fork deze repo, en werk daar je server side app uit: [Performance Matters 1819](
 Documenteer in je readme.md hoe je de server draaiend krijgt; git clone && npm start 
 
 #### Resources
-* [Express simpel server with api call example](https://github.com/wooorm/dictionary)
+* [Introduction to Node.js](https://egghead.io/courses/introduction-to-node-the-fundamentals)
+* [Getting started with Express.js](https://egghead.io/courses/getting-started-with-express-js)
+* [Export modules with Node.js](https://egghead.io/lessons/node-js-export-modules-in-node-js)
 
-### Opdracht 2: Tooling; NPM scripts, CommonJS & Browserify
 
-Installeer en implementeer de tooling voor je app. We kiezen hierbij voor een workflow met NPM, CommonJS en Browserify. Voor dit vak werk je met deze toolbox, waarmee je taken kan automatiseren en scripts / modules kan bundelen. 
+### Opdracht 2: Tooling; NPM scripts
+
+Installeer en implementeer de tooling voor je app. We kiezen hierbij voor een workflow met NPM scripts i.c.m. met een JavaScript bundler naar keuze 
 
 Documenteer in je readme.md hoe jij de build heb geïmplementeerd
 
 #### Resources
+[Introduction to NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
 
 ### Opdracht 3: Universal / Isomorphic app (extra) 
 
@@ -37,7 +41,7 @@ Met de komst van Node.js is het mogelijk om JavaScript op de server te runnen. E
 
 
 #### Resources
-
+[https://github.com/wooorm/dictionary](https://github.com/wooorm/dictionary)
 
 <!-- Bindings -->
 [opdracht1]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-1.md#opdracht-1-pas-de-adamnet-app-aan-naar-een-server-side-versie-met-nodejs--express
