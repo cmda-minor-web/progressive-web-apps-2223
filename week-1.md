@@ -9,7 +9,7 @@ Er is 12 uur ingeroosterd om deze week zelfstandig aan de opdrachten van dit vaa
 
 ## Opdrachten
 1. [Bouw de OBA App om naar een server side versie met Node.js & Express][opdracht1]
-2. [Tooling: NPM, CommonJS & Browserify][opdracht2]
+2. [Tooling: NPM scripts][opdracht2]
 3. [Universal / Isomorphic app (extra)][opdracht3]
 
 ### Opdracht 1: Pas de OBA app aan naar een server side versie met Node.js & Express
@@ -33,7 +33,7 @@ Installeer en implementeer de tooling voor je app. We kiezen hierbij voor een wo
 Documenteer in je readme.md hoe jij de build heb geïmplementeerd
 
 #### Resources
-[Introduction to NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
+[Introduction to NPM scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
 
 ### Opdracht 3: Universal / Isomorphic app (extra) 
 
