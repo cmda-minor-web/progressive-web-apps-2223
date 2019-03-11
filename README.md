@@ -4,7 +4,7 @@ In dit vak gaan we de eerder bij de OBA gemaakte client side web applicatie ombo
 
 ## Leerdoelen
 - _Je weet het verschil tussen client side en server side rendering en kan server side rendering toepassen_
-- _Je begrijpt hoe de critical render path werkt, en hoe je deze kan optimaliseren._
+- _Je begrijpt hoe de critical render path werkt, en hoe je deze kan optimaliseren voor een betere runtime en/of perceived performance._
 - _Je begrijpt hoe een Service Worker werkt en kan deze in jou applicatie implementeren._
 
 [Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTO-pc2UMvpT0pUjt6NJeckc5N9E7QvCxEfVJW1JjuM0m_9MM8ra05J0s6br486Rocz5JVMhAX_C37_/pubhtml?gid=0&single=true)
@@ -19,9 +19,9 @@ Doel: Webpagina's server side renderen
 
 [Slides](...)
 
-### Week 2 - Render Path  
+### Week 2 - Critical Render Path  
 
-Doel: Render path optimaliseren
+Doel: Critical Render path optimaliseren
 [Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md)
 
 [Slides](...)
