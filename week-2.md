@@ -14,6 +14,7 @@ Er is 12 uur ingeroosterd om deze week zelfstandig aan de opdrachten van dit vaa
 
 ### Opdracht 1: Optimaliseer de first meaningful paint
 first paint / repeat paint
+elke optimalisatie in een aparte branch
 
 #### Resources
 
