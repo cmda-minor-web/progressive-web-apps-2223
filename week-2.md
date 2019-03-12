@@ -2,7 +2,7 @@
 Minor Web Development - Performance Matters
 
 ## Intentie
-Deze week gaan we de critical render path van de OBA applicatie optimaliseren.
+Deze week gaan we de critical rendering path van de OBA applicatie optimaliseren.
 
 ## Werkwijze
 Er is 12 uur ingeroosterd om deze week zelfstandig aan de opdrachten van dit vaak te werken. Probeer je werk goed te plannen! Tussentijds wordt in standup meetings en klassikale bijeenkomsten de voortgang gemonitord. Aan het eind van de week wordt je op theoretische kennis getoetst en op het begrip van de code die je volgens de opdrachten schrijft.
