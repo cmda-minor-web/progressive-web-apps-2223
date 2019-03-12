@@ -9,7 +9,7 @@ Er is 12 uur ingeroosterd om deze week zelfstandig aan de opdrachten van dit vaa
 
 ## Opdrachten
 1. [Bouw de OBA App om naar een server side versie met Node.js & Express][opdracht1]
-2. [Tooling: NPM scripts][opdracht2]
+2. [Tooling][opdracht2]
 3. [Universal / Isomorphic app (extra)][opdracht3]
 
 ### Opdracht 1: Pas de OBA app aan naar een server side versie met Node.js & Express
@@ -26,9 +26,9 @@ Documenteer in je readme.md hoe je de server draaiend krijgt; git clone && npm s
 * [Export modules with Node.js](https://egghead.io/lessons/node-js-export-modules-in-node-js)
 
 
-### Opdracht 2: Tooling; NPM scripts
+### Opdracht 2: Tooling
 
-Installeer en implementeer de tooling voor je app. We kiezen hierbij voor een workflow met NPM scripts i.c.m. met een JavaScript bundler naar keuze 
+Installeer en implementeer de tooling voor je app. Je kan hierbij kiezen hierbij voor bijvoorbeeld een workflow met NPM scripts, CommonJS en Browserify.
 
 Documenteer in je readme.md hoe jij de build heb geïmplementeerd
 
