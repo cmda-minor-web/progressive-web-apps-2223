@@ -21,10 +21,11 @@ Doel: Webpagina's server side renderen
 
 ### Week 2 - Critical Rendering Path  
 
-Doel: Critical Rendering path optimaliseren
+Doel: Critical Rendering path optimaliseren  
 [Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md)
 
 [Slides](...)
+[Performance Matters Introduction - Declan](https://github.com/decrek/presentations/blob/master/cdma-performance-matters-2019.pdf)
 
 ### Week 3 - Going Offline 
 
