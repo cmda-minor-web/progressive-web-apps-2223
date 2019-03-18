@@ -23,20 +23,15 @@ Optimaliseer 2 of meer van onderstaande performance onderdelen, leg ook uit in d
 * Runtime performance
 * Time to first byte
 
-Zorg ervoor dat je elke optimalisatie in een aparte branche uitwerkt. Merge uiteindelijk de branches weer naar de master branche
-
-
+Zorg ervoor dat je elke optimalisatie in een *aparte branche* uitwerkt. Merge uiteindelijk de branches weer naar de master branche.
+Documenteer in je README.md, per optimalisatie, wat het effect is geweest van de optimalisatie. Uiteindelijk geef je ook een conclusie van het totale effect van je optimalisaties.
 
 #### Resources
-1. [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-2. ...
-
-
-
-
+1. [Why performance matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+2. [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 
 
 <!-- Bindings -->
 [opdracht1]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md#opdracht-1-optimaliseer-de-first-meaningful-paint
-[opdracht2]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md#opdracht-2-optimaliseer-de-perceived-performance
+
 
