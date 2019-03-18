@@ -8,7 +8,7 @@ Deze week gaan we de critical rendering path van de OBA applicatie optimaliseren
 Er is 12 uur ingeroosterd om deze week zelfstandig aan de opdrachten van dit vaak te werken. Probeer je werk goed te plannen! Tussentijds wordt in standup meetings en klassikale bijeenkomsten de voortgang gemonitord. Aan het eind van de week wordt je op theoretische kennis getoetst en op het begrip van de code die je volgens de opdrachten schrijft.
 
 ## Opdrachten
-1. [Optimaliseer de first meaningful paint][opdracht1]
+1. [Optimaliseer de performance van jou applicatie][opdracht1]
 
 
 
