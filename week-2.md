@@ -9,18 +9,29 @@ Er is 12 uur ingeroosterd om deze week zelfstandig aan de opdrachten van dit vaa
 
 ## Opdrachten
 1. [Optimaliseer de first meaningful paint][opdracht1]
-2. [Optimaliseer de perceived performance][opdracht2]
 
 
-### Opdracht 1: Optimaliseer de first meaningful paint
-first paint / repeat paint  
-elke optimalisatie in een aparte branch
+
+### Opdracht 1: Optimaliseer de performance van jou applicatie
+
+Optimaliseer 2 of meer van onderstaande performance onderdelen, leg ook uit in de README.md waarom je het belangrijk vond juist voor deze performance optimalisaties te kiezen:
+
+* First view  
+* Repeat view  
+* Perceived performance
+* Image loading
+* Runtime performance
+* Time to first byte
+
+Zorg ervoor dat je elke optimalisatie in een aparte branche uitwerkt. Merge uiteindelijk de branches weer naar de master branche
+
+
 
 #### Resources
+1. [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+2. ...
 
-### Opdracht 2: Optimaliseer de perceived performance
 
-#### Resources
 
 
 
