@@ -23,7 +23,7 @@ Doel: Webpagina's server side renderen
 
 Doel: Critical Rendering path optimaliseren  
 [Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md)  
-[Slides](...)
+[Slides](https://docs.google.com/presentation/d/1IqQeu1m0dQiSC_KCvrn8eencAgtYe7X6qT-gm0n9Bmc/edit?usp=sharing)
 
 
 ### Week 3 - Going Offline 
