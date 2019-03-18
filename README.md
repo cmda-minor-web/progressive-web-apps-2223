@@ -17,7 +17,7 @@ Doel: Webpagina's server side renderen
 
 [Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-1.md)  
 [Slides](https://docs.google.com/presentation/d/1i6dvQJ19qPAoDumkZ4cN6Osfvq3dKWgGcJIiqlwNJ8I/edit?usp=sharing)  
-[Performance Matters Introduction - Declan](https://github.com/decrek/presentations/blob/master/cmda-performance-matters-2019.pdf)  
+[Performance Matters Introduction](https://github.com/decrek/presentations/blob/master/cmda-performance-matters-2019.pdf)  
 
 ### Week 2 - Critical Rendering Path  
 
