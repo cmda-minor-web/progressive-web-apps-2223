@@ -32,6 +32,6 @@ Documenteer in je README.md, per optimalisatie, wat het effect is geweest van de
 
 
 <!-- Bindings -->
-[opdracht1]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md#opdracht-1-optimaliseer-de-first-meaningful-paint
+[opdracht1]: https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md#opdracht-1-optimaliseer-de-performance-van-jou-applicatie
 
 
