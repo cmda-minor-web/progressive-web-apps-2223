@@ -17,11 +17,11 @@ Doel: Webpagina's server side renderen
 
 [Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-1.md)  
 [Slides](https://docs.google.com/presentation/d/1i6dvQJ19qPAoDumkZ4cN6Osfvq3dKWgGcJIiqlwNJ8I/edit?usp=sharing)  
-[Performance Matters Introduction - Declan](https://github.com/decrek/presentations/blob/master/cdma-performance-matters-2019.pdf)  
+[Performance Matters Introduction - Declan](https://github.com/decrek/presentations/blob/master/cmda-performance-matters-2019.pdf)  
 
 ### Week 2 - Critical Rendering Path  
 
-Doel: Critical Rendering path optimaliseren  
+Doel: Critical Rendering path optimaliseren   
 [Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md)  
 [Slides](https://docs.google.com/presentation/d/1IqQeu1m0dQiSC_KCvrn8eencAgtYe7X6qT-gm0n9Bmc/edit?usp=sharing)
 
