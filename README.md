@@ -32,7 +32,7 @@ Doel: Webpagina's offline beschikbaar stellen
 
 [Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-3.md)
 
-[Slides](...)
+[Slides](https://docs.google.com/presentation/d/1HVWxtvPr7j2XLZ1QlZJhgDt_RYBAEWjed-zxAps5Xwc/edit?usp=sharing)
 
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
