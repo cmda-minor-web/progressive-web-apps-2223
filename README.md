@@ -1,38 +1,40 @@
 # Progressive Web Apps @cmda-minor-web · 2019-2020
 
-In dit vak gaan we de eerder bij de OBA gemaakte client side web applicatie ombouwen naar een server side gerenderde applicatie. Verder gaan we een reeks van optimalisaties doorvoeren om de performance van de applicatie te verbeteren. Uiteindelijk zorgen we ervoor dat de applicatie offline beschikbaar is.
+In this course we will convert the client side web application previously made at the OBA into a server side rendered application. We also add functionalities based on the Service Worker and turn the application into a Progressive Web App. Ultimately we are going to implement a series of optimisations to improve the performance of the application.  
 
-## Leerdoelen
-- _Je weet het verschil tussen client side en server side rendering en kan server side rendering toepassen_
-- _Je begrijpt hoe de critical render path werkt, en hoe je deze kan optimaliseren voor een betere runtime en/of perceived performance._
-- _Je begrijpt hoe een Service Worker werkt en kan deze in jou applicatie implementeren._
+## Learning goals
+- _
+You understand the difference between client side and server side rendering and you can apply server side rendering
+in your application_
+- _You understand how a Service Worker works and you can implement it in your application._
+- _You understand how the critical render path works and how you can optimize it for a better runtime and / or perceived performance._
 
-[Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTO-pc2UMvpT0pUjt6NJeckc5N9E7QvCxEfVJW1JjuM0m_9MM8ra05J0s6br486Rocz5JVMhAX_C37_/pubhtml?gid=0&single=true)
+[Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vSc48v1nrjcwH0llcTd68xyK7f2fDC2UL4d6h4ZNW3DU8ucez6ZOHiId1XSX0RP5ByvLC8p5pVUGZT4/pubhtml)
 
-## Lesprogramma
+## Program
 
 ### Week 1 - Server Side rendering
 
-Doel: Webpagina's server side renderen
+Goal: Render web pages server side
 
-[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-1.md)  
-[Slides](https://docs.google.com/presentation/d/1i6dvQJ19qPAoDumkZ4cN6Osfvq3dKWgGcJIiqlwNJ8I/edit?usp=sharing)  
-[Performance Matters Introduction](https://github.com/decrek/presentations/blob/master/cmda-performance-matters-2019.pdf)  
+[Exercises](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/course/week-1.md)  
+[Slides](...)  
+[The Web landscape](...)  
+
+
+### Week 2 - Progressive Web App 
+
+Goals: Convert application to a Progressive Web App
+
+[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/course/week-2.md)
+[Slides](...)
+
 
 ### Week 2 - Critical Rendering Path  
 
-Doel: Critical Rendering path optimaliseren   
-[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-2.md)  
-[Slides](https://docs.google.com/presentation/d/1akkdQnSZLc5MQZecLFAcNh5kYrqsYFgEh5owAvgitUw/edit?usp=sharing)
-
-
-### Week 3 - Going Offline 
-
-Doel: Webpagina's offline beschikbaar stellen
-
-[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/week-3.md)
-
-[Slides](https://docs.google.com/presentation/d/1HVWxtvPr7j2XLZ1QlZJhgDt_RYBAEWjed-zxAps5Xwc/edit?usp=sharing)
+Doel: Optimize the Critical Rendering Path   
+[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/course/week-3.md)  
+[Slides](...)
 
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
