@@ -13,7 +13,7 @@ in your application_
 
 ## Program
 
-### Week 1 - Server Side rendering
+### Week 1 - Server Side Rendering 📡
 
 Goal: Render web pages server side
 
@@ -22,7 +22,7 @@ Goal: Render web pages server side
 [The Web landscape](...)  
 
 
-### Week 2 - Progressive Web App 
+### Week 2 - Progressive Web App 🚀
 
 Goals: Convert application to a Progressive Web App
 
@@ -30,7 +30,7 @@ Goals: Convert application to a Progressive Web App
 [Slides](...)
 
 
-### Week 2 - Critical Rendering Path  
+### Week 2 - Critical Rendering Path 📉 
 
 Doel: Optimize the Critical Rendering Path   
 [Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/course/week-3.md)  
