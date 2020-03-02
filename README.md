@@ -25,7 +25,7 @@ Goal: Render web pages server side
 
 Goals: Convert application to a Progressive Web App
 
-[Opdrachten](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-2.md)
+[Opdrachten](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-2.md)  
 [Slides](...)
 
 
