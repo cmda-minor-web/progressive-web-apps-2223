@@ -16,7 +16,7 @@ in your application_
 
 Goal: Render web pages server side
 
-[Exercises](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/course/week-1.md)  
+[Exercises](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-1.md)  
 [Slides](...)  
 [The Web landscape](...)  
 
@@ -25,14 +25,14 @@ Goal: Render web pages server side
 
 Goals: Convert application to a Progressive Web App
 
-[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/course/week-2.md)
+[Opdrachten](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-2.md)
 [Slides](...)
 
 
 ### Week 2 - Critical Rendering Path 📉 
 
 Doel: Optimize the Critical Rendering Path   
-[Opdrachten](https://github.com/cmda-minor-web/performance-matters-1819/blob/master/course/week-3.md)  
+[Opdrachten](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-3.md)  
 [Slides](...)
 
 
