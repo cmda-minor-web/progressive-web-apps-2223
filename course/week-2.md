@@ -26,7 +26,7 @@ Use Chrome for video meetings!
 #### Preparations
 To prepare for the video meeting, think of two or three things you want to talk about. These can be things that you find difficult or that you need help with. 
 
-[Check the feedback sheet for possible issues](https://docs.google.com/spreadsheets/d/1V5-mwJhezxCrywKhy0e9J99zcI2VGZRuYxSDJoQ9LPg/edit?usp=sharing)
+[Check the feedback sheet for possible issues](https://docs.google.com/spreadsheets/d/1V5-mwJhezxCrywKhy0e9J99zcI2VGZRuYxSDJoQ9LPg/edit?usp=sharing) - add these issues to your forked repository.
 
 ### Exercise 2: Convert your app into a Progressive Web App
 
