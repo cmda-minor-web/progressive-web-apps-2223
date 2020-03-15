@@ -24,7 +24,7 @@ Check the sheet for your group, meeting time and invitation link to the online m
 Use headphones during the meeting to avoid sound noise 🎧 
 
 #### Preparations
-To prepare the conversation, think of two or three things you want to talk about. These can be things that you find difficult or that you need help with.
+To prepare for the video meeting, think of two or three things you want to talk about. These can be things that you find difficult or that you need help with. 
 
 ### Exercise 2: Convert your app into a Progressive Web App
 
