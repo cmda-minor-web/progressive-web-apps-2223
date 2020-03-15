@@ -29,14 +29,14 @@ Goal: Render web pages server side
 
 Goals: Convert application to a Progressive Web App
 
-[Opdrachten](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-2.md)  
+[Exercises](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-2.md)  
 [Slides](...)
 
 
 ### Week 2 - Critical Rendering Path 📉 
 
 Doel: Optimize the Critical Rendering Path   
-[Opdrachten](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-3.md)  
+[Exercises](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-3.md)  
 [Slides](...)
 
 
