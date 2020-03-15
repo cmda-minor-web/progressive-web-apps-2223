@@ -34,7 +34,9 @@ Make an installable version of your app, making it feel more app-like.
 
 #### Resources
 
-...
+- [Progressive Web Apps: The future of the Mobile Web by Google, Microsoft & Awwwards](https://www.awwwards.com/PWA-ebook/en)
+- [Progressive Web Apps - web.dev](https://web.dev/progressive-web-apps/)
+- [Developing Progressive Web Apps Course - Google](https://codelabs.developers.google.com/dev-pwa-training/)
 
 ### Exercise 3: Implement a Service Worker
 
@@ -44,4 +46,8 @@ Include your job story in the README.md
 
 #### Resources
 
-...
+- [Service Workers: an Introduction - Google Developers](https://developers.google.com/web/fundamentals/primers/service-workers)
+- [The offline cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook)
+- [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
+
+Great resource on web push notifications: [Web Push Cookbook - Matt Gaunt](https://web-push-book.gauntface.com/)
