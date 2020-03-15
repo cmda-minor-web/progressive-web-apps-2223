@@ -11,7 +11,6 @@ This week we convert our OBA or WAFS application to a Progressive Web App
 12 hours have been scheduled to work independently on this week's assignments this week. Try to plan your work wisely! In the meantime, progress is monitored in standup meetings and classroom meetings. At the end of the week you will be tested on theoretical knowledge and on the understanding of the code that you write according to the assignments.
 
 ## Exercises
-0. Add issues according to feedback
 1. Prepare for video meeting
 2. Convert your app into a Progressive Web App
 3. Implement a Service Worker
