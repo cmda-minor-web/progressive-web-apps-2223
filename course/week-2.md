@@ -20,7 +20,7 @@ This week we convert our OBA or WAFS application to a Progressive Web App
 #### Instructions
 🚀In order to keep the minor train rolling, we meet online each day.   
 [Check the sheet for your group, meeting time and invitation link to the online meeting: PWA 1920 Remote Meetings](https://docs.google.com/spreadsheets/d/1OqiGIB3U2esUSfW9WsMsny_30qlhf9o7CWBYrmzaZwI/edit?usp=sharing)  
-Use headphones during the meeting to avoid sound noise 🎧 
+Use headphones during the meeting to avoid sound noise 🎧   
 Use Chrome for video meetings!
 
 #### Preparations
