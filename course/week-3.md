@@ -32,7 +32,9 @@ Document in your README.md, per optimization, what the effect of the optimizatio
 #### Resources
 
 1. [Why performance matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-2. [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+2. [User centric performance metrics](https://web.dev/user-centric-performance-metrics/)
+3. [The low hanging fruit of web performance](https://css-tricks.com/the-low-hanging-fruit-of-web-performance/)
+4. [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 
 ### Exercise 2: Install your app on an online web server
 
