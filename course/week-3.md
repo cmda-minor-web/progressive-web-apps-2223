@@ -26,7 +26,6 @@ Optimize 2 or more of the performance components below, also explain in the READ
 * Runtime performance
 * Time to first byte
 
-Make sure you work out every optimization in a separate branch. Merge the branches back to the master branch.
 Document in your README.md, per optimization, what the effect of the optimization has been. Ultimately you also give a conclusion about the total effect of your optimizations.
 
 #### Resources
