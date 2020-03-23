@@ -37,7 +37,7 @@ Goals: Convert application to a Progressive Web App
 
 Doel: Optimize the Critical Rendering Path   
 [Exercises](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/week-3.md)  
-[Slides](...)
+[Critical Rendering Path - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-critical-rendering-path.pdf)
 
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
