@@ -17,7 +17,7 @@ Deze week gaan we de critical rendering path van de OBA applicatie optimaliseren
 
 ### Exercise 1: Optimize the performance (Critical Render Path) of your application
 
-Optimize 2 or more of the performance components below, also explain in the README.md why you thought it was important to choose these performance optimizations:
+Optimize 2 or more of the performance components mentioned below. Explain in the README.md why you thought it was important to choose these performance optimizations, and document per optimization, what the effect of the optimization has been. Ultimately you also give a conclusion about the total effect of your optimizations.
 
 * First view
 * Repeat view
@@ -26,7 +26,7 @@ Optimize 2 or more of the performance components below, also explain in the READ
 * Runtime performance
 * Time to first byte
 
-Document in your README.md, per optimization, what the effect of the optimization has been. Ultimately you also give a conclusion about the total effect of your optimizations.
+Document in your README.md, 
 
 #### Resources
 
@@ -37,8 +37,9 @@ Document in your README.md, per optimization, what the effect of the optimizatio
 
 ### Exercise 2: Install your app on an online web server
 
-Install your app on an online web server. Then the web app can not only be viewed locally but also online.
+Install your app on an online web server making it possible to view your wep app online! 
 
 #### Resources
 
 [Digital Ocean](https://www.digitalocean.com/)
+[Heroku](https://www.heroku.com/)
