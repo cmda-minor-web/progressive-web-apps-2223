@@ -27,7 +27,7 @@ Optimize 2 or more of these performance components:
 
 Explain in the README.md why you thought it was important to choose these performance optimizations, and document per optimization, what the effect of the optimization has been. Ultimately you also give a conclusion about the total effect of your optimizations.
 
-[A nice example from Folkert-Jan](https://github.com/follywolly/performance-matters-1819)
+[A nice example from a former student, Folkert-Jan](https://github.com/follywolly/performance-matters-1819)
 
 
 #### Resources
