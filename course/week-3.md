@@ -12,10 +12,10 @@ Deze week gaan we de critical rendering path van de OBA applicatie optimaliseren
 
 ## Exercises
 
-1. Optimize the performance (Critical Render Path) of your application
+1. Optimize the performance (Critical Rendering Path) of your application
 2. Install your app on an online web server
 
-### Exercise 1: Optimize the performance (Critical Render Path) of your application
+### Exercise 1: Optimize the performance (Critical Rendering Path) of your application
 
 Optimize 2 or more of these performance components:  
 
