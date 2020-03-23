@@ -30,13 +30,13 @@ do elements on the page shift in ways that users don't expect and potentially in
 * **Smoothness:**  
 do transitions and animations render at a consistent frame rate and flow fluidly from one state to the next?
 
-__(from: https://web.dev/user-centric-performance-metrics/)__
+_(Based on: https://web.dev/user-centric-performance-metrics/)_
 
 Explain in the README.md why you thought it was important to choose these performance optimizations, and document per optimization, what the effect of the optimization has been. Ultimately you also give a conclusion about the total effect of your optimizations.
 
 For good measure; ```throttle``` your connection in the Network Tab (DevTools) to ```very slow```. Because your web app is probably very small at this moment, you will not see very much happening otherwise.
 
-[A nice example from a former student, Folkert-Jan](https://github.com/follywolly/performance-matters-1819)
+[A nice README.md example from a former student, Folkert-Jan](https://github.com/follywolly/performance-matters-1819)
 
 
 #### Resources
@@ -44,7 +44,8 @@ For good measure; ```throttle``` your connection in the Network Tab (DevTools) t
 1. [Why performance matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 2. [User centric performance metrics](https://web.dev/user-centric-performance-metrics/)
 3. [The low hanging fruit of web performance](https://css-tricks.com/the-low-hanging-fruit-of-web-performance/)
-4. [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+4. [WebPageTest](https://www.webpagetest.org/)
+5. [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 ### Exercise 2: Install your app on an online web server
 
