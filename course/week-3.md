@@ -29,7 +29,8 @@ after page load, how quickly can the page respond to user interaction.
 do elements on the page shift in ways that users don't expect and potentially interfere with their interactions?
 * **Smoothness:**  
 do transitions and animations render at a consistent frame rate and flow fluidly from one state to the next?
-(from: https://web.dev/user-centric-performance-metrics/)
+
+__(from: https://web.dev/user-centric-performance-metrics/)__
 
 Explain in the README.md why you thought it was important to choose these performance optimizations, and document per optimization, what the effect of the optimization has been. Ultimately you also give a conclusion about the total effect of your optimizations.
 
