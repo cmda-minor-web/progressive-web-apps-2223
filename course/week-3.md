@@ -19,12 +19,11 @@ Deze week gaan we de critical rendering path van de OBA applicatie optimaliseren
 
 Optimize 2 or more of these performance components:  
 
-* First view
-* Repeat view
-* Perceived performance
-* Image loading
-* Runtime performance
-* Time to first byte
+* Perceived load speed
+* Load responsiveness
+* Runtime responsiveness
+* Visual stability
+* Smoothness
 
 Explain in the README.md why you thought it was important to choose these performance optimizations, and document per optimization, what the effect of the optimization has been. Ultimately you also give a conclusion about the total effect of your optimizations.
 
