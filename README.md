@@ -1,4 +1,4 @@
-# Progressive Web Apps @cmda-minor-web · 2019-2020
+# Progressive Web Apps @cmda-minor-web · 20-21
 
 🚀In order to keep the minor train rolling, we meet online each day.   
 [Check the sheet for your group, meeting time and invitation link to the online meeting: PWA 1920 Remote Meetings](https://docs.google.com/spreadsheets/d/1OqiGIB3U2esUSfW9WsMsny_30qlhf9o7CWBYrmzaZwI/edit?usp=sharing)  
