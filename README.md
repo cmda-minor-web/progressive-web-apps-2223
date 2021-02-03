@@ -1,9 +1,5 @@
 # Progressive Web Apps @cmda-minor-web · 20-21
 
-🚀In order to keep the minor train rolling, we meet online each day.   
-[Check the sheet for your group, meeting time and invitation link to the online meeting: PWA 1920 Remote Meetings](https://docs.google.com/spreadsheets/d/1OqiGIB3U2esUSfW9WsMsny_30qlhf9o7CWBYrmzaZwI/edit?usp=sharing)  
-Use headphones during the meeting to avoid sound noise 🎧 
-
 In this course we will convert the client side web application previously made at the OBA into a server side rendered application. We also add functionalities based on the Service Worker and turn the application into a Progressive Web App. Ultimately we are going to implement a series of optimisations to improve the performance of the application.  
 
 ## Learning goals
@@ -12,7 +8,7 @@ in your application_
 - _You understand how a Service Worker works and you can implement it in your application._
 - _You understand how the critical render path works and how you can optimize it for a better runtime and / or perceived performance._
 
-[Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vSc48v1nrjcwH0llcTd68xyK7f2fDC2UL4d6h4ZNW3DU8ucez6ZOHiId1XSX0RP5ByvLC8p5pVUGZT4/pubhtml)
+[Rubric with learning goals](https://icthva.sharepoint.com/:x:/r/sites/FDMCI_EDU__CMD20_21_Minor_Web_5i7j73jt/_layouts/15/Doc.aspx?sourcedoc=%7B276F53A7-2531-4006-8AD2-08C9A82D3A11%7D&file=PWA%202021%20Rubric.xlsx&action=edit&mobileredirect=true&wdPreviousSession=92686bea-446f-40e3-9303-33fa3f832b82&wdOrigin=TEAMS-ELECTRON.teams.undefined)
 
 ## Program
 
