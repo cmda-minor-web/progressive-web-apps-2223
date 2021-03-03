@@ -4,7 +4,7 @@ Minor Web Development - Progressive Web Apps
 
 ## Intention
 
-This week we convert our OBA or WAFS application to a Progressive Web App
+This week we convert WAFS application to a Progressive Web App
 
 ## Method
 
