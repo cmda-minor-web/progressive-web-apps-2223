@@ -12,7 +12,7 @@ This week we will convert the client side WAFS app to a server side version. We 
 
 ## Exercises
 
-1. Refactor the OBA or WAFS App to a server side version with Node.js & Express
+1. Refactor the WAFS App to a server side version with Node.js & Express
 2. Tooling
 3. Universal / Isomorphic app (extra)
 4. Static Site Generator / Serverless (extra)
