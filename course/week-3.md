@@ -4,7 +4,7 @@ Minor Web Development - Progressive Web apps
 
 ## Intention
 
-Deze week gaan we de critical rendering path van de OBA applicatie optimaliseren.
+This week we optimize the critical rendering app of the WAFS application.
 
 ## Method
 
