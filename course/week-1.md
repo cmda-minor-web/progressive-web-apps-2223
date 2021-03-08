@@ -32,7 +32,7 @@ Document in your readme.md how you will get the server up and running; git clone
 
 ### Exercise 2: Tooling
 
-Install and implement the tooling for your app. You can choose for example a workflow with NPM scripts, modules and Browserify.
+Install and implement the tooling for your app. You can choose for example a workflow with NPM scripts.
 
 Document in your readme.md how you have implemented the build
 
