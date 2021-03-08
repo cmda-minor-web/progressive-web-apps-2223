@@ -19,7 +19,7 @@ This week we will convert the client side WAFS app to a server side version. We 
 
 ### Exercise 1: Refactor the OBA or WAFS App to a server side version with Node.js & Express
 
-When refactoring, think carefully about the MVP (or core functionality) of the OBA app. In general this is an overview page, with a list of items that each refer to a detail page. Make sure that you first generate the HTML of the server, then you will see to what extent you can adjust the CSS and finally you try to improve the app as much as possible with client-side JavaScript.
+When refactoring, think carefully about the MVP (or core functionality) of the app. In general this is an overview page, with a list of items that each refer to a detail page. Make sure that you first generate the HTML of the server, then you will see to what extent you can adjust the CSS and finally you try to improve the app as much as possible with client-side JavaScript.
 
 Fork this repo for your exercises: [Progressive Web Apps 2021](https://github.com/cmda-minor-web/progressive-web-apps-2021)
 
