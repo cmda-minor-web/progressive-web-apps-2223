@@ -27,9 +27,8 @@ Document in your readme.md how you will get the server up and running; git clone
 
 #### Resources
 
-* [Introduction to Node.js](https://egghead.io/courses/introduction-to-node-the-fundamentals)
-* [Getting started with Express.js](https://egghead.io/courses/getting-started-with-express-js)
-* [Export modules with Node.js](https://egghead.io/lessons/node-js-export-modules-in-node-js)
+* [Node.js getting started quide](https://nodejs.org/en/docs/guides/getting-started-guide/)
+* [Getting started with Express.js](http://expressjs.com/en/starter/installing.html)
 
 ### Exercise 2: Tooling
 
