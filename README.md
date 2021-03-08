@@ -17,7 +17,7 @@ in your application_
 Goal: Render web pages server side
 
 [Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-1.md)    
-[The Web landscape - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-server-side-rendering.pdf)  
+[Server Side Rendering - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2021-server-side-rendering.pdf)  
 
 
 ### Week 2 - Progressive Web App 🚀
@@ -25,7 +25,7 @@ Goal: Render web pages server side
 Goals: Convert application to a Progressive Web App
 
 [Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-2.md)  
-[Progressive Web Aps - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-progressive-web-apps.pdf)
+[Progressive Web Apps - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-progressive-web-apps.pdf)
 
 
 ### Week 2 - Critical Rendering Path 📉 
