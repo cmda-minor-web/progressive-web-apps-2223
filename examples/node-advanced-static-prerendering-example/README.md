@@ -4,9 +4,9 @@
 
 Note that you need an API token from [https://www.themoviedb.org/](https://www.themoviedb.org/) to run the project locally.
 
-- `npm run build` - Build complete website.
-- `npm run watch` - Watch files and recompile on change for development.
-- `npm run start` - Serve prerendered site.
+- `npm run start` - Build and serve website.
+- `npm run watch` - Watch file chnages and recompile for development.
+- `npm run build` - Just build complete website.
 
 
 - `npm run build:html` - Prerender HTML.
