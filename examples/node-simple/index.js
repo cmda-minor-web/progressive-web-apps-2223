@@ -22,7 +22,7 @@ app.use(express.static('public'));
 // Create a home route
 app.get('/', function(req, res) {
 	// Send a plain string using res.send();
-	res.send('Hello world');
+	res.send('Main route');
 });
 
 // Create a route for our overview page
