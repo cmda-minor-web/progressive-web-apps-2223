@@ -1,8 +1,10 @@
 <%- include ./partials/head.ejs %>
+<a href="/">Back to home</a>
+<h1><%- pageTitle%></h1>
 
-<h1>Posts</h1>
-<% postData.forEach(function(post) { %>
-	<a href="/post/<%- post.id %>"><%- post.title %></a>
+
+<% data.forEach(function({title, id}) { %>
+	<a href="/post/<%- id %>"><%- title %></a>
 <% }) %>
 
 <%- include ./partials/footer.ejs %>

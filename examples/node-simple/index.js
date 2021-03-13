@@ -4,7 +4,7 @@ const request = require('request');
 
 // Config object
 const config = {
-	port: 3000
+	port: 1337
 }
 
 // Create new express app in 'app'
@@ -22,20 +22,22 @@ app.use(express.static('public'));
 // Create a home route
 app.get('/', function(req, res) {
 	// Send a plain string using res.send();
-	res.send('Main route');
+	res.render('home', {
+		pageTitle: `Home`
+	})
 });
 
 // Create a route for our overview page
 app.get('/posts', function(req, res) {
-	request('https://jsonplaceholder.typicode.com/posts', {json: true}, function (err, requestRes, body){
+	request('https://jsonplaceholder.typicode.com/posts', {json: true}, function (err, requestRes, json){
 		if (err) {
 			// We got an error
 			res.send(err);
 		} else {
 			// Render the page using the 'posts' view and our body data
 			res.render('posts', {
-				title: 'Posts', // We use this for the page title, see views/partials/head.ejs
-				postData: body
+				pageTitle: 'Posts', // We use this for the page title, see views/partials/head.ejs
+				data: json
 			});
 		}
 	});
@@ -43,25 +45,34 @@ app.get('/posts', function(req, res) {
 
 // Create a route for our detail page
 app.get('/post/:id', function(req, res) {
-	request(`https://jsonplaceholder.typicode.com/posts/${req.params.id}`, {json: true}, function (err, requestRes, body){
+	request(`https://jsonplaceholder.typicode.com/posts/${req.params.id}`, {json: true}, function (err, requestRes, json){
 		if (err) {
 			// We got an error
 			res.send(err);
 		} else {
 			// Render the page using the 'post' view and our body data
 			res.render('post', {
-				title: `Post ${req.params.id}`, 
-				postData: body
+				pageTitle: `Post ${req.params.id}`, 
+				data: json
 			});
 		}
 	});
 });
 
-// Make sure to catch /post to /posts
+// Make sure to redirect /post to /posts
 app.get('/post', function(req, res) {
 	// Redirect the client using res.redirect (this will create a new request)
 	res.redirect('/posts');
 });
+
+// Create a /offline  route
+app.get('/offline', function(req, res) {
+	// Send a plain string using res.send();
+	res.render('offline', {
+		pageTitle: `Offline`
+	})
+});
+
 
 // Actually set up the server
 app.listen(config.port, function() {

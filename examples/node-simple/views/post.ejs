@@ -1,6 +1,8 @@
 <%- include ./partials/head.ejs %>
-<a href="/posts">back</a>
-<h1><%- postData.title %></h1>
-<p><%- postData.body %></p>
+<% const {title, body} = data %>
+
+<a href="/posts">Back to posts</a>
+<h1><%- title %></h1>
+<p><%- body %></p>
 
 <%- include ./partials/footer.ejs %>
