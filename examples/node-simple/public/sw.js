@@ -19,7 +19,7 @@ self.addEventListener("activate", (e) => {
 self.addEventListener("fetch", (e) => {
     
     const req = e.request
-    console.log("Fetching:" + req)
+    console.log("Fetching:" + req.url)
     
     e.respondWith(
         caches.match(req)
