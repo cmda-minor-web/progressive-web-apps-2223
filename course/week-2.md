@@ -21,8 +21,7 @@ Make an installable version of your app, making it feel more app-like.
 #### Resources
 
 - [Progressive Web Apps: The future of the Mobile Web by Google, Microsoft & Awwwards](https://www.awwwards.com/PWA-ebook/en)
-- [Progressive Web Apps - web.dev](https://web.dev/progressive-web-apps/)
-- [Developing Progressive Web Apps Course - Google](https://codelabs.developers.google.com/dev-pwa-training/)
+- [The state of PWAs in 2020/2021](https://www.stefanjudis.com/notes/the-state-of-pwa-adoption-in-2020-2021/)
 
 ### Exercise 2: Implement a Service Worker
 
