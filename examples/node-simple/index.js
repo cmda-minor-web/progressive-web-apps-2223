@@ -23,7 +23,8 @@ app.use(express.static('public'));
 app.get('/', function(req, res) {
 	// Send a plain string using res.send();
 	res.render('home', {
-		pageTitle: `Node.js, Express & PWA`
+		pageTitle: `Node.js, Express & PWA`,
+		tagline: 'Basic implementation'
 	})
 });
 
