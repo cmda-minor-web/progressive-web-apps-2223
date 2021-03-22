@@ -32,11 +32,9 @@ do transitions and animations render at a consistent frame rate and flow fluidly
 
 _(Based on: https://web.dev/user-centric-performance-metrics/)_
 
-Explain in the README.md why you thought it was important to choose these performance optimizations, and document per optimization, what the effect of the optimization has been. Ultimately you also give a conclusion about the total effect of your optimizations.
+Explain in the README.md why you thought it was important to choose these performance optimizations, and your learnings.
 
 For good measure; ```throttle``` your connection in the Network Tab (DevTools) to ```very slow```. Because your web app is probably very small at this moment, you will not see very much happening otherwise.
-
-[A nice README.md example from a former student, Folkert-Jan](https://github.com/follywolly/performance-matters-1819)
 
 
 #### Resources
