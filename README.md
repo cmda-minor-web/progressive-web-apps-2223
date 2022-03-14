@@ -40,10 +40,6 @@ After finishing this program you can:
 - _implement a Service Worker;_
 - _enhance the critical render path for a better runtime or percieved performance._
 
-- ~~*You understand the difference between client side and server side rendering and you can apply server side rendering in your application*~~
-- ~~*You understand how a Service Worker works and you can implement it in your application.*~~
-- ~~*You understand how the critical render path works and how you can optimize it for a better runtime and / or perceived performance.*~~
-
 ## Grading
 Your efforts will be graded using a single point rubric (see below). You will have to pass the criterion (centre column) to pass the course. During the test you will be consulted and will be given feedback on things we think deficient and things we think are an improvement on the criterion.
 
