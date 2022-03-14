@@ -57,44 +57,96 @@ Your efforts will be graded using a single point rubric (see below). You will ha
 ## Programme
 
 ### Daily Schedule
+To keep things simple we use a daily schedule that will be used during normal course days (monday/tuesday). We make exceptions for fridays, on these days a different schedule will be given.
+
+| Time | Who | Activity |
+|:--|:--|:--|
+| *~09:00* | *(Declan, Justus)* | *Standup* |
+| 09:30 | Tribe *+(Declan, Justus)* | Talk with crucial information (make sure you attend!) |
+| 11:00 | Tribe | Work on the (day)assignment |
+|  | Team 1 *+(Declan)* | Standup |
+|  | Team 2 *+(Justus)* | Standup |
+| 11:20 | Team 3 *+(Declan)* | Standup |
+|  | Team 4 *+(Justus)* | Standup |
+| 11.40 | Team 5 *+(Declan)* | Standup |
+|  | Team 6 *+(Justus)* | Standup |
+| 12.00 | Team 7 *+(Declan)* | Standup |
+|  | Team 8 *+(Justus)* | Standup |
+| 12.20 | Team 9 *+(Declan)* | Standup |
+|  | Team 20 *+(Justus)* | Standup |
+| 13:00 | Tribe *+(Daan, Justin)* | Continue work on the (day)assignment |
+| 16:00ish | Tribe | Wrapup |
 
 ### Week 1 - Server Side Rendering 📡
-
 Goal: Render web pages server side
 
+#### Monday [date]
 [Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-1.md)    
 [Server Side Rendering - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2021-server-side-rendering.pdf)  
 
+#### Tuesday [date]
+
+#### Friday [date]
+
+We’ll have a virtual company meeting with Coolblue! They’ll show us around their workfloor between 13.30 and 15.00.
 
 ### Week 2 - Progressive Web App 🚀
+Goal: Convert application to a Progressive Web App
 
-Goals: Convert application to a Progressive Web App
-
+#### Monday [date]
 [Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-2.md)  
 [Progressive Web Apps - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-progressive-web-apps.pdf)
 
+#### Tuesday [date]
+
+#### Friday [date]
 
 ### Week 3 - Critical Rendering Path 📉 
+Goal: Optimize the Critical Rendering Path   
 
-Doel: Optimize the Critical Rendering Path   
+#### Monday [date]
 [Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-3.md)  
 [Critical Rendering Path - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-critical-rendering-path.pdf)
 
+#### Tuesday [date]
 
-<!-- Add a link to your live demo in Github Pages 🌐-->
+#### Friday [date]
+We will have our final [peer review session](./course/peer-review.md). You will read, comment and fire issues on each others code. Doing this helps others dotting the i’s on their project.
 
-<!-- ☝️ replace this description with a description of your own work -->
+| Time | Who | Activity |
+|:--|:--|:--|
+| | Tribe *+(Declan, Justus)* | Peer review |
+| | Tribe *+(Declan, Justus)* | Finalize your assignment |
+| 16.00 | Tribe *+(Declan, Justus)* | (drinks?!) |
+
+
+
+<!-- Here are some hints for your project! -->
+
+<!-- Start out with a title and a description -->
 
 <!-- Add a nice image here at the end of the week, showing off your shiny frontend 📸 -->
 
+<!-- Add a link to your live demo in Github Pages 🌐-->
+
+<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
+
 <!-- Maybe a table of contents here? 📚 -->
+
+<!-- ☝️ replace this description with a description of your own work -->
 
 <!-- How about a section that describes how to install this project? 🤓 -->
 
 <!-- ...but how does one use this project? What are its features 🤔 -->
 
-<!-- What external data source is featured in your project and what are its properties 🌠 -->
+<!-- ...you should implement an explanation of client- server rendering choices 🍽 -->
+
+<!-- ...and an activity diagram including the Service Worker 📈 -->
+
+<!-- This would be a good place for a list of enhancements to optimize the critical render path implemented your app  -->
 
 <!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
 
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
+<!-- We all stand on the shoulders of giants, please link all the sources you used in to create this project. -->
+
+<!-- How about a license here? When in doubt use GNU GPL v3. 📜  -->
