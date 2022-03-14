@@ -12,7 +12,7 @@
 - Course: Progressive Web Apps
 - Course Coordinator: Justus Sturkenboom ([@ju5tu5](https://github.com/ju5tu5))
 - Minor Coordinator(s): Joost Faber ([@joostf](https://github.com/joostf)) Koop Reynders ([@KoopReynders](https://github.com/KoopReynders))
-- Lecturers: Declan Rek ([@declan](https://github.com/declan)) & Justus Sturkenboom ([@ju5tu5](https://github.com/ju5tu5))
+- Lecturers: Declan Rekt ([@declan](https://github.com/declan)) & Justus Sturkenboom ([@ju5tu5](https://github.com/ju5tu5))
 - Student Assistants: Daan Korver ([@daankorver](https://github.com/DaanKorver)) & Justin Lung ([@justinlung](https://github.com/JustinLung))
 - Credit: 3 ECTS credits
 - Academic year: 2021-2022
