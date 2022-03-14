@@ -71,7 +71,7 @@ To keep things simple we use a daily schedule that will be used during normal co
 | 12.20 | Team 9 *+(Declan)* | Standup |
 |  | Team 20 *+(Justus)* | Standup |
 | 13:00 | Tribe *+(Daan, Justin)* | Continue work on the (day)assignment |
-| 16:00ish | Tribe | Wrapup |
+| 16:00ish | Tribe *+(Daan, Justin)* | Wrapup |
 
 ### Week 1 - Server Side Rendering 📡
 Goal: Render web pages server side
