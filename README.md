@@ -69,7 +69,7 @@ To keep things simple we use a daily schedule that will be used during normal co
 | 12.00 | Team 7 *+(Declan)* | Standup |
 |  | Team 8 *+(Justus)* | Standup |
 | 12.20 | Team 9 *+(Declan)* | Standup |
-|  | Team 20 *+(Justus)* | Standup |
+|  | Team 10 *+(Justus)* | Standup |
 | 13:00 | Tribe *+(Daan, Justin)* | Continue work on the (day)assignment |
 | 16:00ish | Tribe *+(Daan, Justin)* | Wrapup |
 
