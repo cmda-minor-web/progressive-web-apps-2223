@@ -45,7 +45,7 @@ Your efforts will be graded using a single point rubric (see below). You will ha
 
 | Deficiency | Criterion | Improvement |
 |:--|:--|:--|
-|  | *Project* Your app is working and published on Heroku. Your project is thoroughly documented in the `README.md` file in your repository. Included are an explanation of client- server rendering, an activity diagram including the Service Worker and a list of enhancements to optimize the critical render path implemented your app. |  |
+|  | *Project* Your app is published and can be accessed using the browser. Your project is thoroughly documented in the `README.md` file in your repository. Included are an explanation of client- server rendering, an activity diagram including the Service Worker and a list of enhancements to optimize the critical render path implemented your app. |  |
 |  |*Serverside rendering* You’ve implemented serverside rendering and have articulated how it works and why you should want it. |  |
 |  |*Service Worker* You’ve implemented a usefull Service Worker and show it’s working in an activity diagram. |  |
 |  |*Critical render path* You’ve enhanced the critical render path for a better runtime or percieved performance in multiple ways and have described how you managed to do this. |  |
