@@ -88,10 +88,10 @@ After this presentation you may start working on [this weeks exercises](./course
 #### Tuesday 22 maart
 We’ll split up in two groups, those who want to go through the details again team up with Justus, those who want to go deeper team up with Declan. Both groups will hold live-coding sessions and will be able to ask questions.
 
-After this live-coding session you may start working on [this weeks exercises](./course/week-1.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). You’ll finish with a wrap-up of your work and take the evening off.
+After this live-coding session you continue working on [this weeks exercises](./course/week-1.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). You’ll finish with a wrap-up of your work and take the evening off.
 
 #### Friday 25 maart
-We’ll have a be introduced to Coolblue, they’ll show us around their workfloor and tell about their company. You can use the spare time to finish [this weeks exercises](./course/week-1.md) and ask questions. Wrap-up your work and take off for the weekend. We might go for drinks..
+We’ll be introduced to Coolblue! They’ll show us around their workfloor and tell us about (working in) their company. You can use the spare time to finish [this weeks exercises](./course/week-1.md) and ask questions. Wrap-up your work and take off for the weekend. We might go for drinks..
 
 | Time | Who | Activity |
 |:--|:--|:--|
@@ -107,26 +107,36 @@ Goal: Convert application to a Progressive Web App
 #### Monday 28 maart
 We set off the week with a presentation on Progressive Web Apps by Declan Rek from *de Voorhoede* [Progressive Web Apps - slides Declan Rek](./course/cmd-2020-progressive-web-apps.pdf)
 
-After this presentation you may start working on [this weeks exercises](./course/week-2.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). Finally, you’ll do a wrap-up of your work and take the evening off.
+After this presentation you’ll start working on [this weeks exercises](./course/week-2.md). Again, we’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). We’ll wrap-up the day as usual and take the evening off.
 
 #### Tuesday 29 maart
+We’ll split up again, those who want to go through the details again team up with Justus, those who want to go even deeper team up with Declan. Both groups will hold live-coding sessions and will be able to ask questions.
 
-#### Friday 1 april
+After this live-coding session you continue working on [this weeks exercises](./course/week-2.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). You’ll finish with a wrap-up of your work and take the evening off.
+
+#### Friday 1 april (or is it...?!)
 We will have a [peer review session](./course/peer-review.md). You will read, comment and fire issues on each others code. Doing this helps others dotting the i’s on their project.
 
 | Time | Who | Activity |
 |:--|:--|:--|
 | 13.00 | Tribe *+(Declan, Justus)* | Peer review |
 | 15.30 | Tribe *+(Declan, Justus)* | Wrap-up for the weekend |
+| 16.00 | Tribe?! | (drinks?! or not?!) |
 
 ### Week 3 - Critical Rendering Path 📉 
-Goal: Optimize the Critical Rendering Path   
+Goal: Optimize the Critical Rendering Path
+
+[Exercises for week 3](./course/week-3.md)  
 
 #### Monday 4 april
-[Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-3.md)  
-[Critical Rendering Path - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-critical-rendering-path.pdf)
+We’ll set of the 3rd and final week with a presentation on the Critical Rendering Path by Declan Rek from *de Voorhoede* [Progressive Web Apps - slides Declan Rek](./course/cmd-2020-critical-rendering-path.pdf)
+
+After this presentation you’ll work on [this weeks exercises](./course/week-3.md). Again, we’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). We’ll wrap-up the day (are you starting to get the hang of it?) as usual and take the evening off.
 
 #### Tuesday 5 april
+We’ll split a third time... Again, those who want to go through the details team up with Justus. Those who want to go beyond.. fearlessly.. into the dark depths of optimization, team up with Declan. Both groups will hold live-coding sessions and will be able to ask questions.
+
+After this live-coding session you continue working on [this weeks exercises](./course/week-3.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). You’ll finish with a wrap-up of your work and take the evening off.
 
 #### Friday 8 april
 We will have our final [peer review session](./course/peer-review.md). You will read, comment and fire issues on each others code. Doing this helps others dotting the i’s on their project.
