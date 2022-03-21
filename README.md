@@ -81,7 +81,7 @@ Goal: Render web pages server side
 [Exercises for week 1](./course/week-1.md)
 
 #### Monday 21 maart    
-We start out with a short explanation of this course. Right behind is a presentation on Server Side Rendering by Declan Rek from *de Voorhoede* [Server Side Rendering - slides by Declan Rek](course/cmd-2022-server-side-rendering.pdf)
+We start out with a short explanation of this course. Right behind is a presentation on Server Side Rendering by Declan Rek from *de Voorhoede* [Server Side Rendering - slides by Declan Rek](course/cmd-2021-server-side-rendering.pdf)
 
 After this presentation you may start working on [this weeks exercises](./course/week-1.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). At the end of the day you’ll do a wrap-up of your work and take the evening off.
 
