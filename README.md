@@ -1,5 +1,7 @@
 # Progressive Web Apps @cmda-minor-web · 2021/22
 
+![pwa](https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png)
+
 ## Table of Contents
 - [Synopsis](#synopsis)
 - [Description](#description)
@@ -76,45 +78,61 @@ To keep things simple we use a daily schedule that will be used during normal co
 ### Week 1 - Server Side Rendering 📡
 Goal: Render web pages server side
 
-#### Monday [date]
-[Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-1.md)    
-[Server Side Rendering - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2021-server-side-rendering.pdf)  
+[Exercises for week 1](./course/week-1.md)
 
-#### Tuesday [date]
+#### Monday 21 maart    
+We start out with a short explanation of this course. Right behind is a presentation on Server Side Rendering by Declan Rek from *de Voorhoede* [Server Side Rendering - slides by Declan Rek](course/cmd-2021-server-side-rendering.pdf)
 
-#### Friday [date]
+After this presentation you may start working on [this weeks exercises](./course/week-1.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). Finally, around 16.00, you’ll do a wrap-up of your work and take the evening off.
 
-We’ll have a virtual company meeting with Coolblue! They’ll show us around their workfloor between 13.30 and 15.00.
+#### Tuesday 22 maart
+We’ll split up in two groups, those who want to go through the details again team up with Justus, those who want to go deeper team up with Declan. Both groups will hold live-coding sessions and will be able to ask questions.
+
+After this live-coding session you may start working on [this weeks exercises](./course/week-1.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). Finally, around 16.00, you’ll do a wrap-up of your work and take the evening off.
+
+#### Friday 25 maart
+We’ll have a be introduced to Coolblue, they’ll show us around their workfloor and tell about their company. You can use the spare time to finish [this weeks exercises](./course/week-1.md) and ask questions. Around 15.30, you’ll do a wrap-up of your work and take off for the weekend. We might go for drinks..
+
+| Time | Who | Activity |
+|:--|:--|:--|
+| 13.00 | Tribe *+(Declan, Justus)* | Questions.. |
+| 13.30 | Tribe *+(Declan, Justus)* | Virtual company meeting @ Coolblue |
+| 16.00 | Tribe *+(Declan?, Justus?)* | (drinks?!) |
 
 ### Week 2 - Progressive Web App 🚀
 Goal: Convert application to a Progressive Web App
 
-#### Monday [date]
+#### Monday 28 maart
 [Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-2.md)  
 [Progressive Web Apps - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-progressive-web-apps.pdf)
 
-#### Tuesday [date]
+#### Tuesday 29 maart
 
-#### Friday [date]
+#### Friday 1 april
+We will have a [peer review session](./course/peer-review.md). You will read, comment and fire issues on each others code. Doing this helps others dotting the i’s on their project.
+
+| Time | Who | Activity |
+|:--|:--|:--|
+| 13.00 | Tribe *+(Declan, Justus)* | Peer review |
+| 15.30 | Tribe *+(Declan, Justus)* | Wrap-up for the weekend |
 
 ### Week 3 - Critical Rendering Path 📉 
 Goal: Optimize the Critical Rendering Path   
 
-#### Monday [date]
+#### Monday 4 april
 [Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-3.md)  
 [Critical Rendering Path - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-critical-rendering-path.pdf)
 
-#### Tuesday [date]
+#### Tuesday 5 april
 
-#### Friday [date]
+#### Friday 8 april
 We will have our final [peer review session](./course/peer-review.md). You will read, comment and fire issues on each others code. Doing this helps others dotting the i’s on their project.
 
 | Time | Who | Activity |
 |:--|:--|:--|
-| | Tribe *+(Declan, Justus)* | Peer review |
-| | Tribe *+(Declan, Justus)* | Finalize your assignment |
+| 13.00 | Tribe *+(Declan, Justus)* | Peer review |
+| 15.30 | Tribe *+(Declan, Justus)* | Finalize your assignment |
 | 16.00 | Tribe *+(Declan, Justus)* | (drinks?!) |
-
 
 
 <!-- Here are some hints for your project! -->
