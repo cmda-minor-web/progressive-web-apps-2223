@@ -83,15 +83,15 @@ Goal: Render web pages server side
 #### Monday 21 maart    
 We start out with a short explanation of this course. Right behind is a presentation on Server Side Rendering by Declan Rek from *de Voorhoede* [Server Side Rendering - slides by Declan Rek](course/cmd-2021-server-side-rendering.pdf)
 
-After this presentation you may start working on [this weeks exercises](./course/week-1.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). Finally, around 16.00, you’ll do a wrap-up of your work and take the evening off.
+After this presentation you may start working on [this weeks exercises](./course/week-1.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). At the end of the day you’ll do a wrap-up of your work and take the evening off.
 
 #### Tuesday 22 maart
 We’ll split up in two groups, those who want to go through the details again team up with Justus, those who want to go deeper team up with Declan. Both groups will hold live-coding sessions and will be able to ask questions.
 
-After this live-coding session you may start working on [this weeks exercises](./course/week-1.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). Finally, around 16.00, you’ll do a wrap-up of your work and take the evening off.
+After this live-coding session you may start working on [this weeks exercises](./course/week-1.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). You’ll finish with a wrap-up of your work and take the evening off.
 
 #### Friday 25 maart
-We’ll have a be introduced to Coolblue, they’ll show us around their workfloor and tell about their company. You can use the spare time to finish [this weeks exercises](./course/week-1.md) and ask questions. Around 15.30, you’ll do a wrap-up of your work and take off for the weekend. We might go for drinks..
+We’ll have a be introduced to Coolblue, they’ll show us around their workfloor and tell about their company. You can use the spare time to finish [this weeks exercises](./course/week-1.md) and ask questions. Wrap-up your work and take off for the weekend. We might go for drinks..
 
 | Time | Who | Activity |
 |:--|:--|:--|
@@ -102,9 +102,12 @@ We’ll have a be introduced to Coolblue, they’ll show us around their workflo
 ### Week 2 - Progressive Web App 🚀
 Goal: Convert application to a Progressive Web App
 
+[Exercises for week 2](./course/week-2.md)  
+
 #### Monday 28 maart
-[Exercises](https://github.com/cmda-minor-web/progressive-web-apps-2021/blob/master/course/week-2.md)  
-[Progressive Web Apps - slides Declan Rek](https://github.com/cmda-minor-web/progressive-web-apps-1920/blob/master/course/cmd-2020-progressive-web-apps.pdf)
+We set off the week with a presentation on Progressive Web Apps by Declan Rek from *de Voorhoede* [Progressive Web Apps - slides Declan Rek](./course/cmd-2020-progressive-web-apps.pdf)
+
+After this presentation you may start working on [this weeks exercises](./course/week-2.md). We’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). Finally, you’ll do a wrap-up of your work and take the evening off.
 
 #### Tuesday 29 maart
 
