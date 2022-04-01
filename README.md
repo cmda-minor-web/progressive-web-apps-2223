@@ -105,7 +105,7 @@ Goal: Convert application to a Progressive Web App
 [Exercises for week 2](./course/week-2.md)  
 
 #### Monday 28 maart
-We set off the week with a presentation on Progressive Web Apps by Declan Rek from *de Voorhoede* [Progressive Web Apps - slides Declan Rek](./course/cmd-2020-progressive-web-apps.pdf)
+We set off the week with a presentation on Progressive Web Apps by Declan Rek from *de Voorhoede* [Progressive Web Apps - slides Declan Rek](./course/cmd-2022-progressive-web-apps.pdf)
 
 After this presentation you’ll start working on [this weeks exercises](./course/week-2.md). Again, we’ll hold standup meetings in teams according to the roster you see at [daily schedule](#daily-schedule). We’ll wrap-up the day as usual and take the evening off.
 

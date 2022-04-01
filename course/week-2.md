@@ -32,6 +32,7 @@ Include your job story in the README.md
 #### Resources
 
 - [Service Workers: an Introduction - Google Developers](https://developers.google.com/web/fundamentals/primers/service-workers)
+- [Web.dev - Progressive Web Apps](https://web.dev/progressive-web-apps/)
 - [The offline cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook)
 - [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
 
