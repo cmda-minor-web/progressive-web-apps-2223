@@ -7,7 +7,7 @@
 
 ## Preparation (please do this before attending)
 - Push the latest changes to your readme, code, and/or wiki
-- Make sure you’ve read and understand [the rubric](https://github.com/cmda-minor-web/real-time-web-2021#grading) for this course
+- Make sure you’ve read and understand [the rubric](https://github.com/cmda-minor-web/progressive-web-apps-2122#grading) for this course
 - Read up on [how issues fit into the Github workflow](https://guides.github.com/features/issues/) and  make sure you know how to [write useful issues](https://upthemes.com/blog/2014/02/writing-useful-github-issues/)
 - Start a call with your sub-team (eg. Squid B.1 or R2D2 C.2) in MS Teams
 
