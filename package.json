@@ -1,0 +1,27 @@
+{
+  "name": "progressive-web-apps-2223",
+  "version": "1.0.0",
+  "description": "Progressive Web Application",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marengd/progressive-web-apps-2223.git"
+  },
+  "keywords": [
+    "Progressive",
+    "Web",
+    "Application"
+  ],
+  "author": "Danian Marengo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marengd/progressive-web-apps-2223/issues"
+  },
+  "homepage": "https://github.com/Marengd/progressive-web-apps-2223#readme"
+}
