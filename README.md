@@ -1,7 +1,7 @@
 # Kanye West, Word of Wisdom Generator
 Unleash Kanye's Wisdom, let his wisdom guide us.
 
-<img src="/docs/assets/images/header_definitive.jpg" alt="Close – up van een mobiele telefoon omringd door duisternis met de tekst Kanye West, Word of Wisdom Generator op het scherm." width="100%">
+<img src="/docs/imgs/readme_header_image.jpg" alt="Close – up van een mobiele telefoon omringd door duisternis met de tekst Kanye West, Word of Wisdom Generator op het scherm." width="100%">
 
 This is the repository of <a href="https://danianmarengo.nl">Danian Marengo</a> his, Kanye West word of wisdom generator. This website was created for the project <a href="https://github.com/cmda-minor-web web-app-from-scratch-2223">Web App from scratch </a>, which is part of the <a href="https://github.com/cmda-minor-web">Minor Web design and Development 2022- 2023</a> at the <a href="https://www.hva.nl/">Amsterdams University of Applied Sciences</a>, as part of the program <a href="https://www.hva.nl/opleidingen/communication-and-multimedia-design?gclid=Cj0KCQiAgaGgBhC8ARIsAAAyLfFCp5OTcBLGcx-_uMWa2sowONOebB19jLA1KMt2yEmVFGWaHdsi9DwaAq0PEALw_wcB">Communication and Multimedia design.</a>
 
